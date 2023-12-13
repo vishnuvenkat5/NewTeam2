@@ -1,6 +1,6 @@
 MyFile-Senathipathi
 <<<<<<< HEAD
-Surya added a line
+Surya added a line after a line
 =======
 Sathiyan Updated
 
