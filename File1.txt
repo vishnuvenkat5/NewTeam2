@@ -1,7 +1,6 @@
 MyFile-Senathipathi
-<<<<<<< HEAD
 Surya added a line after a line
-=======
 Sathiyan Updated
+File1.txt updated by Deepika
+Vikky made correction
 
->>>>>>> 815ba53d4a4c053b726be2f8fc82d1d36c3ba09d
